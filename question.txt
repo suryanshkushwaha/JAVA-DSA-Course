@@ -1,0 +1,15 @@
+Print this pattern
+
+*
+**
+***
+****
+*****
+
+resources
+
+System.out.print()
+System.out.println()
+\n
+
+#Solution
